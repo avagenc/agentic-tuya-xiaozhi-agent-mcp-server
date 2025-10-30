@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/avagenc/agentic-tuya-xiaozhi-to-agent-bridge/internal/models"
+	"github.com/avagenc/agentic-tuya-xiaozhi-agent-mcp-server/internal/models"
 )
 
 func writeJSON(w http.ResponseWriter, status int, payload any) {

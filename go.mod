@@ -1,4 +1,4 @@
-module github.com/avagenc/agentic-tuya-xiaozhi-to-agent-bridge
+module github.com/avagenc/agentic-tuya-xiaozhi-agent-mcp-server
 
 go 1.25.0
 

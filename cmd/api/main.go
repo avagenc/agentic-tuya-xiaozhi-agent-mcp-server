@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/avagenc/agentic-tuya-xiaozhi-to-agent-bridge/internal/handlers"
+	"github.com/avagenc/agentic-tuya-xiaozhi-agent-mcp-server/internal/handlers"
 	"github.com/joho/godotenv"
 )
 
